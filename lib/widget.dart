@@ -13,6 +13,7 @@ class Widget {
   final List<String> subcategories;
   final String link;
   final String image;
+  String ofwLink;
 
   Widget.fromJson(Map<String, dynamic> json)
       : name = json['name'],

@@ -11,3 +11,4 @@ build/
 doc/api/
 /.history
 /lib/keys.dart
+/assets/service_account.json
